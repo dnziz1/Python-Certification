@@ -1,2 +1,3 @@
-# Python-Certification
-This repository contains my solutions to various Python programming labs and exercises. Each lab focuses on different programming concepts including conditional logic, user input handling, error management, and problem-solving. 
+# Python Labs Collection
+
+A collection of programming labs and exercises completed while learning Python fundamentals from freeCodeCamp. Each lab demonstrates different programming concepts and problem-solving techniques.
